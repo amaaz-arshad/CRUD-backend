@@ -7,8 +7,8 @@
     "node": "14.x"
   },
   "scripts": {
-    "start": "node index.js",
-    "devstart": "nodemon index.js",
+    "start": "node api/index.js",
+    "devstart": "nodemon api/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
